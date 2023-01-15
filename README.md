@@ -6,7 +6,7 @@ Final Project In AMIT Learning Embedded Systems Diploma.
 
 ## Project Overview 
 
-![image](https://user-images.githubusercontent.com/77552628/188181156-9310f127-ec44-47d1-b9a2-38b38965f0bc.png)
+
 
 This Project is a part of the AMIT Learning Embedded Diploma. It aims to demostrate the proficincy of writing bare metal derivers and interfacing with different inter and external MCU peripherals. 
 
